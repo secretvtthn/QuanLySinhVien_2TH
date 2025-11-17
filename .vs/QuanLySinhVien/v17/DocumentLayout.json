@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QuanLySinhVien\\QuanLySinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\quanlysinhvien\\quanlysinhvien\\studentmanagement\\views\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\quanlysinhvien\\quanlysinhvien\\studentmanagement\\views\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\quanlysinhvien\\quanlysinhvien\\studentmanagement\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\quanlysinhvien\\quanlysinhvien\\studentmanagement\\views\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|D:\\QuanLySinhVien\\QuanLySinhVien\\studentmanagement\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\quanlysinhvien\\quanlysinhvien\\studentmanagement\\views\\aboutform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\aboutform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|D:\\QuanLySinhVien\\QuanLySinhVien\\studentmanagement\\views\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\quanlysinhvien\\quanlysinhvien\\studentmanagement\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\quanlysinhvien\\quanlysinhvien\\studentmanagement\\views\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\quanlysinhvien\\quanlysinhvien\\studentmanagement\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\quanlysinhvien\\quanlysinhvien\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\App.config",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\App.config",
+              "ToolTip": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\App.config",
+              "RelativeToolTip": "StudentManagement\\Views\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-16T09:45:42.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Data\\DataAccess.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Data\\DataAccess.cs",
+              "ToolTip": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Data\\DataAccess.cs",
+              "RelativeToolTip": "StudentManagement\\Data\\DataAccess.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T09:44:42.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\LoginForm.Designer.cs",
+              "ToolTip": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\LoginForm.Designer.cs",
+              "RelativeToolTip": "StudentManagement\\Views\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T06:38:13.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\MainForm.Designer.cs",
+              "ToolTip": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\MainForm.Designer.cs",
+              "RelativeToolTip": "StudentManagement\\Views\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:48:05.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\MainForm.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\MainForm.cs",
+              "ToolTip": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\MainForm.cs",
+              "RelativeToolTip": "StudentManagement\\Views\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:48:03.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Form1.Designer.cs",
+              "ToolTip": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\Form1.Designer.cs",
+              "RelativeToolTip": "StudentManagement\\Views\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:47:48.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Form1.cs",
+              "ToolTip": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\Form1.cs",
+              "RelativeToolTip": "StudentManagement\\Views\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:47:46.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutForm.Designer.cs",
+              "DocumentMoniker": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\AboutForm.Designer.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\AboutForm.Designer.cs",
+              "ToolTip": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\AboutForm.Designer.cs",
+              "RelativeToolTip": "StudentManagement\\Views\\AboutForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:47:43.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:47:20.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\LoginForm.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\LoginForm.cs",
+              "ToolTip": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\LoginForm.cs [Design]",
+              "RelativeToolTip": "StudentManagement\\Views\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:02:12.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutForm.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\AboutForm.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\AboutForm.cs",
+              "ToolTip": "D:\\QuanLySinhVien\\QuanLySinhVien\\StudentManagement\\Views\\AboutForm.cs [Design]",
+              "RelativeToolTip": "StudentManagement\\Views\\AboutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:45:32.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

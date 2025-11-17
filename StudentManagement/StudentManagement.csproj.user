@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ChartForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ChartForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ClassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\HelpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ReportClassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ReportScoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ReportStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ScoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\StudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TeacherForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
